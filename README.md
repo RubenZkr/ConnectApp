@@ -1,2 +1,0 @@
-# ConnectApp
-Backend application 
