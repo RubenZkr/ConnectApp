@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConnectApp.props" />
+</Project>
