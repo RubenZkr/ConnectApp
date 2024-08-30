@@ -2,3 +2,5 @@
 ConnectApp/ConnectApp/bin/Debug/net8.0/appsettings.Development.json
 ConnectApp/ConnectApp/appsettings.Development.json
 ConnectApp/ConnectApp/appsettings.json
+ConnectApp/ConnectApp.Api/appsettings.Development.json
+ConnectApp/ConnectApp.Api/appsettings.json

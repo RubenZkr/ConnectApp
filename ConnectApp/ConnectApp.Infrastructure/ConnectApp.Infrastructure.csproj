@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ConnectApp.Application\ConnectApp.Application.csproj" />
+      <ProjectReference Include="..\ConnectApp.Domain\ConnectApp.Domain.csproj" />
+    </ItemGroup>
+
+</Project>
